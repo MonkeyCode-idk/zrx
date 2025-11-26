@@ -1,4 +1,9 @@
 /* 版心 */
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
 .w {
     width: 1200px;
     margin: 0 auto;
@@ -300,4 +305,5 @@
 
 .copyright {
     line-height: 20px;
+
 }
