@@ -1,0 +1,37 @@
+{
+  "id": "5066119",
+  "name": "机长的图库",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1042279",
+      "name": "arrow",
+      "font_class": "arrow1",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "18531433",
+      "name": "arrow",
+      "font_class": "arrow",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "12306296",
+      "name": "shoping",
+      "font_class": "shoping",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "15838429",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    }
+  ]
+}
